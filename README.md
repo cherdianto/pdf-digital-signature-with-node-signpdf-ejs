@@ -1,10 +1,18 @@
+
 # pdf-digital-signature-with-node-signpdf-ejs
+
 I'm trying to create simple program for adding the digital signature to a pdf file with self-signed certificate. I use node-signpdf and pdf-lib library.
 
-### clone
 
+## HOW-TO
 
-### npm install
+  ## clone the repo
 
+    git clone https://github.com/cherdianto/pdf-digital-signature-with-node-signpdf-ejs.git
 
-### npm start
+## install all the dependencies
+
+    npm install
+## run the application
+
+    npm start
